@@ -1,0 +1,5 @@
+public/
+.hugo_build.lock
+*.pyc
+.DS_Store
+node_modules/
