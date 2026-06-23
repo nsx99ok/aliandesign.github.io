@@ -1,7 +1,7 @@
 ---
 title: "Weekly Horoscope: July 13–19, 2026"
 date: 2026-06-18
-draft: false
+draft: true
 categories: ["daily-astrology"]
 tags: ["weekly horoscope", "zodiac", "weekly forecast", "cancer season"]
 description: "Sun in Cancer, Aquarius Moon mid-week — here's your full zodiac forecast for July 13-19, with Eastern BaZi element insights."

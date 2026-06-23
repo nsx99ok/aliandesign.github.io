@@ -1,0 +1,93 @@
+<!-- Schema.org JSON-LD for AI search and LLM citation -->
+
+{{- /* Article Schema — single page only */ -}}
+{{- if .IsPage -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ .Title | jsonify }},
+  "description": {{ .Description | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": "Alian Design",
+    "url": "{{ .Site.BaseURL }}about/"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "AstroAligned",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}img/logo-icon.svg"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }
+}
+</script>
+{{- end -}}
+
+{{- /* BreadcrumbList Schema — every page */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {{- $count := 0 -}}
+    {{- range .Ancestors.Reverse -}}
+      {{- if $count -}},{{- end -}}
+      {
+        "@type": "ListItem",
+        "position": {{ add $count 1 }},
+        "name": {{ .LinkTitle | jsonify }},
+        "item": "{{ .Permalink }}"
+      }
+      {{- $count = add $count 1 -}}
+    {{- end -}}
+    {{- if $count -}},{{- end -}}
+    {
+      "@type": "ListItem",
+      "position": {{ add $count 1 }},
+      "name": {{ .LinkTitle | jsonify }},
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+
+{{- /* Person Schema — author EEAT */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Alian Design",
+  "url": "{{ .Site.BaseURL }}about/",
+  "knowsAbout": [
+    "Western Astrology",
+    "Chinese BaZi",
+    "Four Pillars of Destiny",
+    "Five Elements",
+    "Chinese Astrology",
+    "Zodiac Compatibility"
+  ]
+}
+</script>
+
+{{- /* Organization Schema — publisher */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "AstroAligned",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "Where Western Zodiac meets Chinese BaZi — daily horoscopes, elemental wisdom, and cross-cultural astrology insights.",
+  "sameAs": [
+    "https://pinterest.com/arrivalkit"
+  ]
+}
+</script>

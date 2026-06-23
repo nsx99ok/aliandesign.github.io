@@ -1,0 +1,5 @@
+{{- if site.Params.customCSS }}
+  {{- range site.Params.customCSS }}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+  {{- end }}
+{{- end }}

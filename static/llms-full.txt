@@ -1,0 +1,48 @@
+# AstroAligned — Full Content Index
+> Where Zodiac Meets BaZi — complete site content for AI crawlers.
+
+## Site Info
+- Title: AstroAligned | Where Zodiac Meets BaZi
+- Description: Western Zodiac tells you who you are. Chinese BaZi tells you what you're made of. Two systems. One sky.
+- Language: English
+- Topics: Western Astrology, Chinese BaZi, Four Pillars of Destiny, Horoscopes, Five Elements, Zodiac Compatibility
+
+## Categories
+- Daily Horoscope: https://astro.aliandesign.com/categories/daily-astrology/
+- BaZi (Four Pillars): https://astro.aliandesign.com/categories/bazi/
+- Elements & Compatibility: https://astro.aliandesign.com/categories/elements-compatibility/
+
+## All Articles
+
+### Daily Horoscopes
+1. Daily Horoscope — June 20, 2026 (Weekend Ease)
+   URL: https://astro.aliandesign.com/2026/06/daily-horoscope-2026-06-20-weekend-ease/
+   Summary: Weekend horoscope for all 12 zodiac signs with BaZi daily element insights.
+
+2. Daily Horoscope — June 20, 2026
+   URL: https://astro.aliandesign.com/2026/06/daily-horoscope-june-20/
+   Summary: Daily horoscope for all zodiac signs with Chinese Five Elements perspective.
+
+3. Daily Horoscope — June 19, 2026
+   URL: https://astro.aliandesign.com/2026/06/daily-horoscope-june-19/
+   Summary: Mid-week horoscope with Western and Chinese astrological insights.
+
+4. Weekly Horoscope — July 13–19, 2026
+   URL: https://astro.aliandesign.com/2026/06/weekly-horoscope-july-13-19/
+   Summary: Complete weekly horoscope covering all zodiac signs with BaZi weekly elements.
+
+### BaZi Guides
+5. Fire Element Signs in BaZi
+   URL: https://astro.aliandesign.com/2026/06/fire-element-signs/
+   Summary: Comprehensive guide to Fire element in Chinese BaZi — characteristics, compatibility, career implications, and elemental balance.
+
+## Pages
+- Home: https://astro.aliandesign.com/
+- About: https://astro.aliandesign.com/about/
+- Chart+ (BaZi Calculator): https://astro.aliandesign.com/chart-plus/
+
+## RSS Feed
+- Full RSS: https://astro.aliandesign.com/index.xml
+
+## External Profiles
+- Pinterest: https://pinterest.com/arrivalkit

@@ -1,15 +1,15 @@
 baseURL: "https://astro.aliandesign.com/"
-title: "AstroAligned | Where Zodiac Meets BaZi"
+title: "AstroAligned | 当西方星座遇见东方八字"
 theme: hugo-PaperMod
 languageCode: en-us
 defaultContentLanguage: en
-pagination:
-  pagerSize: 5
+defaultContentLanguageInSubdir: false
+buildFuture: true
+hasCJKLanguage: true
 
 enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
-hasCJKLanguage: false
 
 permalinks:
   posts: /:year/:month/:slug/
@@ -23,12 +23,12 @@ params:
   env: production
   title: "AstroAligned"
   description: "Where Western Zodiac meets Chinese BaZi — daily horoscopes, elemental wisdom, and cross-cultural astrology insights."
-  keywords: [Astrology, BaZi, Horoscope, Zodiac, Chinese Astrology, Daily Horoscope, Western Astrology, Four Pillars]
+  keywords: [Astrology, BaZi, Horoscope, Zodiac, Chinese Astrology, Daily Horoscope, Western Astrology, Four Pillars, 八字, 占星]
   author: "Alian Design"
-  images: ["/img/site-banner.png"]
+  images: ["/img/hero-crescent.svg"]
 
   # PaperMod theme params
-  defaultTheme: auto
+  defaultTheme: dark
   disableThemeToggle: false
   ShowShareButtons: true
   ShowReadingTime: false
@@ -45,15 +45,21 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
+  displayFullLangName: true
+
+  # Custom settings
+  customCSS: ["/css/custom.css"]
 
   homeInfoParams:
     Title: "When the Stars Speak in Two Tongues"
     Content: |
+      🌙
+
       Western Zodiac tells you **who you are**. Chinese BaZi tells you **what you're made of**.
 
       Two systems. One sky. Daily horoscopes, elemental deep-dives, and cross-cultural astrology — all in one place.
 
-      **Start here:** [Your Daily Horoscope](/categories/daily-astrology/) · [BaZi for Beginners](/categories/bazi/) · [Elements & Compatibility](/categories/elements-compatibility/)
+      **Explore:** [Daily Horoscope](/categories/daily-astrology/) · [BaZi Basics](/categories/bazi/) · [Elements & Compatibility](/categories/elements-compatibility/)
 
   socialIcons:
     - name: pinterest
@@ -71,13 +77,13 @@ params:
 
   label:
     text: "AstroAligned"
-    icon: /img/logo-icon.svg
-    iconHeight: 30
+    icon: /img/logo-cplus.svg
+    iconHeight: 32
 
 menu:
   main:
     - identifier: home
-      name: Home
+      name: "🌙 Home"
       url: /
       weight: 1
     - identifier: daily-astrology
@@ -92,6 +98,10 @@ menu:
       name: "🔥 Elements & Compat"
       url: /categories/elements-compatibility/
       weight: 30
+    - identifier: shop
+      name: "🛍️ Shop"
+      url: /shop/
+      weight: 35
     - identifier: chart-plus
       name: "📊 Chart+"
       url: /chart-plus/
@@ -113,3 +123,103 @@ markup:
 taxonomies:
   category: categories
   tag: tags
+
+# ============================================
+# Chinese Language Configuration
+# ============================================
+languages:
+  en:
+    languageCode: en-us
+    languageName: "English 🇺🇸"
+    weight: 1
+    contentDir: content/en
+    title: "AstroAligned — Where Zodiac Meets BaZi"
+    params:
+      homeInfoParams:
+        Title: "When the Stars Speak in Two Tongues"
+        Content: |
+          🌙
+
+          Western Zodiac tells you **who you are**. Chinese BaZi tells you **what you're made of**.
+
+          Two systems. One sky. Daily horoscopes, elemental deep-dives, and cross-cultural astrology — all in one place.
+
+          **Explore:** [Daily Horoscope](/categories/daily-astrology/) · [BaZi Basics](/categories/bazi/) · [Elements & Compatibility](/categories/elements-compatibility/)
+    menu:
+      main:
+        - identifier: home
+          name: "🌙 Home"
+          url: /
+          weight: 1
+        - identifier: daily-astrology
+          name: "☀️ Daily Horoscope"
+          url: /categories/daily-astrology/
+          weight: 10
+        - identifier: bazi
+          name: "☯️ BaZi (Four Pillars)"
+          url: /categories/bazi/
+          weight: 20
+        - identifier: elements
+          name: "🔥 Elements & Compat"
+          url: /categories/elements-compatibility/
+          weight: 30
+        - identifier: shop
+          name: "🛍️ Shop"
+          url: /shop/
+          weight: 35
+        - identifier: chart-plus
+          name: "📊 Chart+"
+          url: /chart-plus/
+          weight: 40
+        - identifier: about
+          name: "ℹ️ About"
+          url: /about/
+          weight: 50
+
+  zh:
+    languageCode: zh-CN
+    languageName: "中文 🇨🇳"
+    weight: 2
+    contentDir: content/zh
+    title: "AstroAligned — 当西方星座遇见东方八字"
+    params:
+      homeInfoParams:
+        Title: "当星星用两种语言说话"
+        Content: |
+          🌙
+
+          西方星座告诉你**你是谁**，东方八字告诉你**你由什么构成**。
+
+          两套体系，同一片星空。每日运势、五行深度解读、中西占星碰撞——尽在此处。
+
+          **开始探索：** [每日运势](/zh/categories/daily-astrology/) · [八字入门](/zh/categories/bazi/) · [元素与相容性](/zh/categories/elements-compatibility/)
+    menu:
+      main:
+        - identifier: home
+          name: "🌙 首页"
+          url: /zh/
+          weight: 1
+        - identifier: daily-astrology
+          name: "☀️ 每日运势"
+          url: /zh/categories/daily-astrology/
+          weight: 10
+        - identifier: bazi
+          name: "☯️ 八字入门"
+          url: /zh/categories/bazi/
+          weight: 20
+        - identifier: elements
+          name: "🔥 五行与相容"
+          url: /zh/categories/elements-compatibility/
+          weight: 30
+        - identifier: shop
+          name: "🛍️ 商店"
+          url: /zh/shop/
+          weight: 35
+        - identifier: chart-plus
+          name: "📊 Chart+ 星盘"
+          url: /zh/chart-plus/
+          weight: 40
+        - identifier: about
+          name: "ℹ️ 关于"
+          url: /zh/about/
+          weight: 50
