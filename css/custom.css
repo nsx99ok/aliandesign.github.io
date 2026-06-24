@@ -1,0 +1,441 @@
+/* ============================================
+   AstroAligned Custom Theme - Dark Space & Gold
+   ============================================ */
+
+/* --- Brand Colors --- */
+:root {
+  --bg-deep: #070912;
+  --bg-card: #0c1020;
+  --bg-nav: #080b18;
+  --gold: #d4a373;
+  --gold-light: #e8c88a;
+  --gold-dark: #c9955a;
+  --text-primary: #e8e0d5;
+  --text-secondary: #9a9490;
+  --text-muted: #6b6560;
+  --border-color: #1a1a2e;
+  --accent-glow: rgba(212, 163, 115, 0.08);
+  --link-color: #d4a373;
+  --link-hover: #f0d6a8;
+}
+
+/* --- Global Background --- */
+body {
+  background: var(--bg-deep);
+  color: var(--text-primary);
+}
+
+/* --- Header / Nav --- */
+.header {
+  background: var(--bg-nav);
+  border-bottom: 1px solid var(--border-color);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+.nav {
+  max-width: 1100px;
+}
+
+.logo a {
+  color: var(--gold-light) !important;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.logo a:hover {
+  color: var(--gold) !important;
+}
+
+/* --- Logo image --- */
+.logo img {
+  filter: drop-shadow(0 0 4px rgba(212, 163, 115, 0.3));
+}
+
+/* --- Navigation menu --- */
+.menu li a {
+  color: var(--text-secondary) !important;
+  font-size: 0.9rem;
+  letter-spacing: 0.3px;
+}
+
+.menu li a:hover,
+.menu li a span.active {
+  color: var(--gold-light) !important;
+  border-bottom: 2px solid var(--gold);
+  padding-bottom: 4px;
+}
+
+/* --- Language switcher --- */
+.lang-menu a {
+  color: var(--gold) !important;
+  border: 1px solid var(--border-color);
+  padding: 2px 10px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+.lang-menu a:hover {
+  border-color: var(--gold);
+  background: rgba(212, 163, 115, 0.08);
+}
+
+/* --- Theme toggle --- */
+.theme-toggle {
+  color: var(--gold) !important;
+}
+
+/* --- Hero Section (Home page) --- */
+.home-info {
+  text-align: center;
+  padding: 3rem 0 1.5rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.home-info::before {
+  content: '';
+  position: absolute;
+  top: -60px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 800px;
+  height: 500px;
+  background: radial-gradient(ellipse at center, rgba(212, 163, 115, 0.06) 0%, transparent 70%);
+  z-index: 0;
+  pointer-events: none;
+}
+
+.home-info .entry-header h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: var(--gold-light);
+  margin-bottom: 0.5rem;
+  letter-spacing: 1px;
+  position: relative;
+}
+
+.home-info .entry-content {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--text-secondary);
+  max-width: 680px;
+  margin: 0 auto;
+  position: relative;
+}
+
+/* --- Hero crescent element --- */
+.hero-crescent {
+  display: block;
+  margin: 0 auto 1.5rem;
+  width: 80px;
+  height: 80px;
+  opacity: 0.85;
+}
+
+.hero-crescent svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* --- Posts / Cards --- */
+.post-entry {
+  background: var(--bg-card) !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 12px !important;
+  transition: all 0.25s ease;
+  padding: 1.5rem !important;
+}
+
+.post-entry:hover {
+  border-color: rgba(212, 163, 115, 0.25) !important;
+  box-shadow: 0 4px 24px rgba(212, 163, 115, 0.06);
+  transform: translateY(-2px);
+}
+
+.entry-header h2 a {
+  color: var(--gold-light) !important;
+  font-size: 1.15rem;
+}
+
+.entry-header h2 a:hover {
+  color: var(--gold) !important;
+}
+
+.entry-content {
+  color: var(--text-secondary) !important;
+  font-size: 0.92rem;
+}
+
+/* --- Post meta (date, tags) --- */
+.post-meta {
+  color: var(--text-muted) !important;
+  font-size: 0.82rem;
+}
+
+.meta-item, .entry-footer {
+  color: var(--text-muted) !important;
+}
+
+/* --- Post content --- */
+.post-content {
+  color: var(--text-primary);
+  line-height: 1.8;
+}
+
+.post-content h2 {
+  color: var(--gold-light);
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+}
+
+.post-content h3 {
+  color: var(--gold);
+}
+
+.post-content a {
+  color: var(--link-color);
+  border-bottom: 1px dotted rgba(212, 163, 115, 0.3);
+}
+
+.post-content a:hover {
+  color: var(--link-hover);
+  border-bottom-color: var(--gold);
+}
+
+.post-content blockquote {
+  border-left: 3px solid var(--gold);
+  background: rgba(212, 163, 115, 0.04);
+  padding: 0.8rem 1.2rem;
+  color: var(--text-secondary);
+}
+
+.post-content code {
+  background: rgba(212, 163, 115, 0.08);
+  color: var(--gold-light);
+  border-radius: 4px;
+  padding: 2px 6px;
+  font-size: 0.88rem;
+}
+
+.post-content pre code {
+  background: transparent;
+}
+
+/* --- Table of Contents --- */
+.toc {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+}
+
+.toc .toc-title {
+  color: var(--gold);
+  font-weight: 600;
+}
+
+.toc a {
+  color: var(--text-secondary);
+}
+
+.toc a:hover {
+  color: var(--gold-light);
+}
+
+/* --- Breadcrumbs --- */
+.breadcrumbs {
+  color: var(--text-muted);
+  font-size: 0.82rem;
+}
+
+.breadcrumbs a {
+  color: var(--text-secondary);
+}
+
+.breadcrumbs a:hover {
+  color: var(--gold);
+}
+
+/* --- Tags --- */
+.post-tags a {
+  background: rgba(212, 163, 115, 0.08);
+  border: 1px solid var(--border-color);
+  border-radius: 20px;
+  padding: 3px 12px;
+  color: var(--gold) !important;
+  font-size: 0.78rem;
+  transition: all 0.2s;
+}
+
+.post-tags a:hover {
+  background: rgba(212, 163, 115, 0.15);
+  border-color: var(--gold);
+}
+
+.taglist a {
+  color: var(--gold) !important;
+}
+
+/* --- Buttons / Share --- */
+.share-buttons a {
+  color: var(--text-muted);
+  border-color: var(--border-color);
+}
+
+.share-buttons a:hover {
+  color: var(--gold);
+  border-color: var(--gold);
+}
+
+/* --- Pagination --- */
+.paginav {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+}
+
+.paginav a:hover {
+  background: rgba(212, 163, 115, 0.04);
+}
+
+.page-link {
+  color: var(--gold) !important;
+}
+
+/* --- Footer --- */
+.footer {
+  border-top: 1px solid var(--border-color);
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  padding: 2rem 0;
+}
+
+.footer a {
+  color: var(--text-secondary);
+}
+
+.footer a:hover {
+  color: var(--gold);
+}
+
+/* --- RSS button --- */
+.rss-link {
+  color: var(--gold) !important;
+}
+
+/* --- Cover images --- */
+.entry-cover img {
+  border-radius: 8px;
+}
+
+/* ============================================
+   Products Section (custom shortcode / page)
+   ============================================ */
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.product-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.product-card:hover {
+  border-color: rgba(212, 163, 115, 0.35);
+  box-shadow: 0 6px 30px rgba(212, 163, 115, 0.08);
+  transform: translateY(-3px);
+}
+
+.product-card-body {
+  padding: 1rem 1.2rem 1.2rem;
+}
+
+.product-card h3 {
+  margin: 0 0 0.3rem;
+  font-size: 1rem;
+  color: var(--gold-light);
+}
+
+.product-card .product-price {
+  color: var(--gold);
+  font-weight: 600;
+  font-size: 1.05rem;
+  margin-bottom: 0.5rem;
+}
+
+.product-card .product-desc {
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  line-height: 1.5;
+  margin-bottom: 0.8rem;
+}
+
+.product-card .product-link {
+  display: inline-block;
+  background: transparent;
+  border: 1px solid var(--gold);
+  color: var(--gold);
+  padding: 6px 16px;
+  border-radius: 6px;
+  font-size: 0.82rem;
+  transition: all 0.2s;
+  text-decoration: none;
+}
+
+.product-card .product-link:hover {
+  background: var(--gold);
+  color: #070912;
+}
+
+/* --- Section titles --- */
+.section-title {
+  text-align: center;
+  color: var(--gold-light);
+  font-size: 1.6rem;
+  margin: 3rem 0 0.5rem;
+  letter-spacing: 0.5px;
+}
+
+.section-subtitle {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+
+/* --- Links that look like buttons --- */
+.btn-gold {
+  display: inline-block;
+  background: transparent;
+  border: 1px solid var(--gold);
+  color: var(--gold);
+  padding: 10px 28px;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  transition: all 0.25s;
+  text-decoration: none;
+  letter-spacing: 0.3px;
+}
+
+.btn-gold:hover {
+  background: var(--gold);
+  color: #070912;
+}
+
+.btn-gold-outline:hover {
+  background: var(--gold);
+  color: #070912;
+}
+
+/* --- Search --- */
+.search-btn {
+  color: var(--gold) !important;
+}
