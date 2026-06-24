@@ -21,13 +21,6 @@ outputs:
 
 params:
   env: production
-  assets:
-    favicon: "/favicon.svg"
-    favicon16x16: "/favicon.svg"
-    favicon32x32: "/favicon.svg"
-    apple_touch_icon: "/favicon.svg"
-    safari_pinned_tab: "/favicon.svg"
-
   title: "AstroAligned"
   description: "Where Western Zodiac meets Chinese BaZi — daily horoscopes, elemental wisdom, and cross-cultural astrology insights."
   keywords: [Astrology, BaZi, Horoscope, Zodiac, Chinese Astrology, Daily Horoscope, Western Astrology, Four Pillars, 八字, 占星]
