@@ -1,81 +1,75 @@
 ---
-title: "商店 — AstroAligned 数字产品"
-description: "艺术画芯、壁纸和占星工具"
+title: "商店 — 给自由职业者的 Notion 系统"
+description: "Alian Design 出品的 Notion 模板与数字工具。给那些真正在跑客户业务的人，不是给表格管理爱好者。"
 ---
 
-🌙
+# 让生意跑起来，而不是让待办清单更长
 
-# 我们的产品
-
-艺术画芯、壁纸和占星工具，把星空带入你的空间。
-
----
-
-## 🖼️ 艺术画芯
-
-### 六月野花草甸 — 艺术画芯
-**$9.99** — 高清打印文件（A3可用）+ 手机壁纸  
-温暖的水彩风景——野花向金色地平线延伸。六月火月系列。  
-[前往 Gumroad →](https://dongmeng.gumroad.com/l/june-wildflower-art-print)
-
-### 六月向日葵 — 艺术画芯
-**$9.99** — 高清打印文件（A3可用）+ 手机壁纸  
-向日葵在暖土色调中绽放。火月能量的水彩定格。  
-[前往 Gumroad →](https://dongmeng.gumroad.com/l/june-sunflower-art-print)
+给自由职业者的 Notion 系统 —— 不用再把客户的事全装在自己脑子里。
 
 ---
 
-## 🌙 占星系列
+## 🗂️ 客户门户 + SOP 工具包（社媒管理师专用）
+
+**$39** · Notion 模板 · 24 小时内交付
+
+**痛点。** 四个客户、一张内容日历、一个表格、三串邮件、一个群聊。客户这周第五次问"现在什么进度？"——活干完了，只是他看不见。
+
+**解法。** 一套系统：你在这里干活，客户能看见，不用问。
+
+### 客户门户（每个客户复制一份）
+
+- **欢迎页** —— 合作范围、更新节奏、谁负责什么、急事怎么找你。设置一次，不用重复解释
+- **内容看板** —— 提案中 → 待审批 → 已排期 → 已发布，一屏看完
+- **交付归档** —— 文案、设计稿、报告按月归档，不再散落在收件箱里
+- **审批链接** —— 每条内容一个链接，不用在三个 App 里翻评论
+- **月度报告** —— 客户两分钟能读完的业绩页面
+
+### SOP 工具包（你自己内部用）
+
+- **新客户接入清单** —— 15 步勾选，不漏项
+- **内容生产 SOP** —— 调研 → 写稿 → 设计 → 审批 → 排期 → 发布 → 复盘
+- **客户健康分** —— 谁快要流失，提前看出来
+- **续费与涨价话术流程** —— 什么时候提、怎么说
+
+### 模板库 —— 7 封可直接发的邮件
+
+1. 接入欢迎信
+2. 每周进度更新
+3. 月度业绩报告
+4. 审批请求（一句话 + 一个链接）
+5. 续费提醒
+6. 涨价通知
+7. 发现通话后的提案跟进
+
+**适合谁：** 手上有三个以上客户的自由社媒管理师、小型代运营团队。
 
 ---
 
+## 怎么下单
 
+<a href="https://www.paypal.com/ncp/payment/VVHXSCVWXHAFA" target="_blank" rel="noopener noreferrer" style="display:inline-block;margin:8px 0"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png" alt="使用 PayPal 支付 39.00 美元" style="height:44px;width:auto;border:0;vertical-align:middle"></a>
 
-### 六月野花草甸免费壁纸
-**免费** — 手机壁纸 (1170 × 2532 px)  
-野花草甸的暖意，先放到你的屏幕上尝尝。  
-[免费获取 →](https://dongmeng.gumroad.com/l/free-june-wildflower-wallpaper)
+**39.00 美元 · 通过 PayPal 安全支付。** 点击按钮进入 PayPal 托管的安全结账页（可用 PayPal 余额、信用卡或 Apple Pay 付款），我们会在 24 小时内把 Notion 模板链接发到你的邮箱（通常快得多）。
 
-### 六月向日葵免费壁纸
-**免费** — 手机壁纸 (1170 × 2532 px)  
-向日葵的温暖能量。  
-[免费获取 →](https://dongmeng.gumroad.com/l/free-june-sunflower-wallpaper)
+也可以选择开账单：发邮件到 **hello@aliandesign.com** 写明产品名，我们会给你发 PayPal 账单。
 
-### 2026年6月壁纸包 — 6种美学风格
-**$3.99** — 6张手机壁纸 (1170 × 2532 px)  
-六月火月的六种精选风格——从向日葵金到深空蓝绿。  
-[前往 Gumroad →](https://dongmeng.gumroad.com/l/june-2026-wallpaper-pack)
-
-### 免费六月2026壁纸 — 光晕美学
-**免费** — 手机壁纸 (1170 × 2532 px)  
-柔和的光晕色调，温柔开启你的六月。  
-[免费获取 →](https://dongmeng.gumroad.com/l/free-june-2026-wallpaper)
+全球可用 · 美元结算 · PayPal 收款 · 邮件交付。
 
 ---
 
-## 📜 通用模板系列
+## 常见问题
+
+**需要什么？** 一个免费 Notion 账号，不需要付费版。
+
+**是订阅吗？** 不是。一次付费，永久使用和修改。
+
+**能给客户用吗？** 可以 —— 你自己用，以及用在任意多个客户身上。
+
+**退款政策。** 数字产品即时交付、内容无法退回，因此售出不退。如果哪里不能用，发邮件给我们修。
+
+**买之前想问？** 发 **hello@aliandesign.com**，一个工作日内回复。
 
 ---
 
-
-
-### 菜单模板四合一包
-**$4.99** — 4种餐厅菜单风格（可打印）  
-咖啡馆、早午餐和正餐四种不同风格，即下即用。  
-[前往 Gumroad →](https://dongmeng.gumroad.com/l/menu-bundle-4in1)
-
-### 黑板风格菜单模板
-**$3.99** — 可打印A5咖啡馆菜单  
-经典黑板风格，打印后手写即可使用。  
-[前往 Gumroad →](https://dongmeng.gumroad.com/l/chalkboard-menu-template)
-
-### 免费婚礼RSVP卡
-**免费** — 优雅回执卡模板  
-简约优雅的婚礼回复卡。  
-[免费获取 →](https://dongmeng.gumroad.com/l/free-rsvp-card)
-
----
-
-*所有产品均为数字下载，结账后会收到下载链接。可在家或打印店打印。*
-
-*有问题？联系 hello@aliandesign.com*
+*Alian Design —— 给自己给自己干活的人，做数字工具。*

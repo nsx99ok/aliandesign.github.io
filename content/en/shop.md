@@ -1,80 +1,75 @@
 ---
-title: "Shop — AstroAligned Digital Products"
-description: "Art prints, wallpapers, and astrology tools by Alian Design"
----
-🌙
-
-# Our Products
-
-Art prints, wallpapers, and tools to bring the stars into your space.
-
+title: "Shop — Notion Systems for Freelancers"
+description: "Notion templates and digital tools by Alian Design. Built for freelancers who run client work, not spreadsheets."
 ---
 
-## 🖼️ Art Prints
+# Tools that run your business — not just your to-do list
 
-### June Wildflower Meadow — Art Print
-**$9.99** — High-resolution print file (A3-ready) + phone wallpaper  
-A warm watercolor landscape — wildflowers stretching toward a golden horizon.  
-[View on Gumroad →](https://dongmeng.gumroad.com/l/june-wildflower-art-print)
-
-### June Sunflower Art Print
-**$9.99** — High-resolution print file (A3-ready) + phone wallpaper  
-A radiant sunflower on warm earth tones. Fire month energy captured in watercolor.  
-[View on Gumroad →](https://dongmeng.gumroad.com/l/june-sunflower-art-print)
+Notion systems built for freelancers who are done juggling clients in their head.
 
 ---
 
-## 🌙 占星系列
+## 🗂️ Client Portal + SOP Toolkit — for Social Media Managers
+
+**$39** · Notion template · Delivered within 24 hours
+
+**The problem.** You're running four clients across a content calendar, a spreadsheet, three email threads and a group chat. Your client asks "what's the status?" for the fifth time this week. The work is done — they just can't see it.
+
+**The fix.** One system where you run the work, and clients can see it without asking.
+
+### Client Portal *(duplicate one per client)*
+
+- **Welcome page** — scope, posting cadence, who does what, how to reach you in a hurry. Set once, no repeating yourself
+- **Content board** — Idea → Waiting approval → Scheduled → Published, all in one view
+- **Deliverables archive** — copy, creative and reports filed by month, so nothing lives in your inbox
+- **Approval links** — one link per post instead of scattered comments across three apps
+- **Monthly report** — performance numbers in a page your client can read in two minutes
+
+### SOP Toolkit *(your internal system)*
+
+- **Client onboarding checklist** — 15 steps, so a new client never slips through
+- **Content production SOP** — research → draft → design → approve → schedule → publish → review
+- **Client health score** — spot the client who's about to leave, before they do
+- **Renewal & price-increase playbook** — what to say, and when
+
+### Template Library — 7 emails ready to send
+
+1. Onboarding welcome
+2. Weekly progress update
+3. Monthly performance report
+4. Approval request (one line + one link)
+5. Renewal reminder
+6. Price increase notice
+7. Proposal follow-up after a discovery call
+
+**Who it's for:** freelance social media managers and small agencies running three or more clients.
 
 ---
 
+## How to order
 
+<a href="https://www.paypal.com/ncp/payment/VVHXSCVWXHAFA" target="_blank" rel="noopener noreferrer" style="display:inline-block;margin:8px 0"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png" alt="Pay with PayPal — $39.00 USD" style="height:44px;width:auto;border:0;vertical-align:middle"></a>
 
-### Free June Wildflower Wallpaper
-**Free** — Phone wallpaper (1170 × 2532 px)  
-A taste of the wildflower meadow for your screen.  
-[Get it free →](https://dongmeng.gumroad.com/l/free-june-wildflower-wallpaper)
+**$39.00 USD — pay securely with PayPal.** Clicking the button opens PayPal's secure checkout page (pay with your PayPal balance, a card, or Apple Pay). Your Notion template link is emailed within 24 hours — usually much faster.
 
-### Free June Sunflower Wallpaper
-**Free** — Phone wallpaper (1170 × 2532 px)  
-Sunflower warmth for your phone.  
-[Get it free →](https://dongmeng.gumroad.com/l/free-june-sunflower-wallpaper)
+Prefer an invoice instead? Email **hello@aliandesign.com** with the product name and we'll send you a PayPal invoice.
 
-### June 2026 Wallpaper Pack — 6 Aesthetic Styles
-**$3.99** — 6 phone wallpapers (1170 × 2532 px each)  
-Six curated styles for June Fire Month — from sunflower gold to deep space teal.  
-[View on Gumroad →](https://dongmeng.gumroad.com/l/june-2026-wallpaper-pack)
-
-### Free June 2026 Wallpaper — Aura Aesthetic
-**Free** — Phone wallpaper (1170 × 2532 px)  
-Soft aura tones to start your June.  
-[Get it free →](https://dongmeng.gumroad.com/l/free-june-2026-wallpaper)
+Works worldwide · Paid in USD via PayPal · Delivered by email within 24 hours.
 
 ---
 
-## 📜 通用模板系列
+## FAQ
+
+**What do I need?** A free Notion account. No paid Notion plan required.
+
+**Is this a subscription?** No. One-time payment, yours to keep and edit.
+
+**Can I use it for client work?** Yes — for your own business and for as many clients as you like.
+
+**Refunds.** Delivery is instant and the content can't be returned, so all sales are final. If something doesn't work the way it should, email us and we'll fix it.
+
+**Questions before buying?** Email **hello@aliandesign.com** — we reply within one business day.
 
 ---
 
-
-
-### Menu Bundle 4-in-1
-**$4.99** — 4 restaurant menu styles (printable)  
-Four distinct styles for cafes, brunch spots, and fine dining. Instant download.  
-[View on Gumroad →](https://dongmeng.gumroad.com/l/menu-bundle-4in1)
-
-### Chalkboard Menu Template
-**$3.99** — Printable A5 cafe & brunch menu  
-Classic chalkboard style, ready to print and fill in.  
-[View on Gumroad →](https://dongmeng.gumroad.com/l/chalkboard-menu-template)
-
-### Free Wedding RSVP Card
-**Free** — Elegant reply card template  
-A simple, elegant RSVP card for your special day.  
-[Get it free →](https://dongmeng.gumroad.com/l/free-rsvp-card)
-
----
-
-*All products are digital downloads. You'll receive a link after checkout to download your files. Print at home or at your local print shop.*
-
-*Questions? Contact hello@aliandesign.com*
+*Alian Design — digital tools for people who work for themselves.*
