@@ -1,48 +1,66 @@
 ---
 title: "Shop — Notion Systems for Freelancers"
-description: "Notion templates and digital tools by Alian Design. Built for freelancers who run client work, not spreadsheets."
+description: "Notion templates by Alian Design for freelancers running multiple clients — built for 5–10 client workflows, not spreadsheets."
 ---
 
-# Tools that run your business — not just your to-do list
+# Run 5–10 social media clients without the daily chaos.
 
-Notion systems built for freelancers who are done juggling clients in their head.
+Every client, approval, and deadline in one Notion dashboard — not scattered across Google Sheets and six open tabs. Open it in the morning and see exactly what needs you today.
 
 ---
 
-## 🗂️ Client Portal + SOP Toolkit — for Social Media Managers
+## 🗂️ Client Portal + SOP Toolkit — now built for 5–10 clients
 
 **$39** · Notion template · Delivered within 24 hours
 
-**The problem.** You're running four clients across a content calendar, a spreadsheet, three email threads and a group chat. Your client asks "what's the status?" for the fifth time this week. The work is done — they just can't see it.
+**The problem.** When you're running 5 to 10 clients, the job stops being creative and becomes logistics. The client list lives in Google Sheets, each client's calendar lives in its own Notion page, and the real status of anything lives in your head — which is fine at three clients and gets messy at six. Approvals sit untouched until a client ghosts the process for days, then asks for last-minute changes the night before a post goes live. By Friday the whole week feels chaotic, and you can't point to anything that actually went wrong.
 
-**The fix.** One system where you run the work, and clients can see it without asking.
+**The fix.** One Notion system that holds every client in the same structure: a master dashboard on top, one client workspace underneath it, and a status you can trust for every piece of work. It doesn't post for you or pull your analytics — it keeps the client side of the job from falling apart between the tools that do.
 
-### Client Portal *(duplicate one per client)*
+### ① Client Command Center
 
-- **Welcome page** — scope, posting cadence, who does what, how to reach you in a hurry. Set once, no repeating yourself
-- **Content board** — Idea → Waiting approval → Scheduled → Published, all in one view
+- **Master dashboard** — every client on one screen: current status, next deadline, who owns it
+- **One workspace per client** — same structure every time, so switching accounts takes seconds
+- **Content board** — Idea → Sent for review → Approved → Scheduled → Published
+- **One calendar across all clients** — filter it by client or by week
+- **Scope, rate and renewal dates** — scope creep is visible before it becomes a conversation
 - **Deliverables archive** — copy, creative and reports filed by month, so nothing lives in your inbox
-- **Approval links** — one link per post instead of scattered comments across three apps
-- **Monthly report** — performance numbers in a page your client can read in two minutes
 
-### SOP Toolkit *(your internal system)*
+### ② Approvals & Follow-ups
 
-- **Client onboarding checklist** — 15 steps, so a new client never slips through
+- **Visible approval status on every post** — Draft, Sent for review, Approved, Needs changes
+- **"Awaiting approval" view** — every blocked post across every client on one screen
+- **Follow-up message templates** — what to send when a client goes quiet for three days
+- **Change log for late requests** — the night-before edits get recorded instead of absorbed
+- **Approval links** — one link per post instead of comments scattered across three apps
+
+### ③ SOPs & Handoff
+
+- **Client onboarding checklist** — 15 steps, so client number six goes as smoothly as client number one
 - **Content production SOP** — research → draft → design → approve → schedule → publish → review
+- **Monthly reporting checklist** — which metrics to pull from which platform, in order
 - **Client health score** — spot the client who's about to leave, before they do
 - **Renewal & price-increase playbook** — what to say, and when
+- **Handoff pages** — who holds each login and how access transfers. No passwords stored anywhere
 
-### Template Library — 7 emails ready to send
+### Email & message templates — 8 ready to send
 
 1. Onboarding welcome
 2. Weekly progress update
 3. Monthly performance report
 4. Approval request (one line + one link)
-5. Renewal reminder
-6. Price increase notice
-7. Proposal follow-up after a discovery call
+5. Follow-up when a client goes quiet
+6. Renewal reminder
+7. Price increase notice
+8. Proposal follow-up after a discovery call
 
-**Who it's for:** freelance social media managers and small agencies running three or more clients.
+**$39 once, versus $59–$399 a month for the scheduling platforms in this space.** Those tools do their part well — they just don't touch this half: keeping six clients and their approvals straight.
+
+**Setup takes about 30 minutes.** You duplicate the template once, add your client names, and the structure is already there. There's nothing to build — the dashboards, views, approval statuses and checklists arrive arranged the way an agency actually runs. People who try to build this from a blank Notion page usually give up halfway; that's the step you're skipping.
+
+*This is a client management system, not a scheduling tool. It won't publish posts or pull platform analytics — it keeps the work around them organized.*
+
+**Who it's for:** freelance social media managers and 3–10 person agencies running 5–10 client accounts at the same time.
 
 ---
 
@@ -61,6 +79,8 @@ Works worldwide · Paid in USD via PayPal · Delivered by email within 24 hours.
 ## FAQ
 
 **What do I need?** A free Notion account. No paid Notion plan required.
+
+**Why not use a free Notion template?** Free templates are everywhere — they're also blank, and mostly built for one client. What you're buying here is the structure for running several at once, already built and arranged the way client work actually runs.
 
 **Is this a subscription?** No. One-time payment, yours to keep and edit.
 
